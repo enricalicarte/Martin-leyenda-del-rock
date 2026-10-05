@@ -34,6 +34,8 @@ falta un servidor, como GitHub Pages.
 - Móvil: toca los cinco botones de colores.
 - Ordenador: teclas A S D F G y la barra espaciadora para el superpoder.
 - Al acertar suena la guitarra real de la canción; al fallar, se calla.
+- Si las notas parecen llegar tarde o pronto, usa **Calibrar el ritmo** en el
+  menú: toca 8 veces con el clic y el juego compensa el retardo del dispositivo.
 
 ## Derechos
 
