@@ -1,51 +1,77 @@
-# Licencia — Todos los derechos reservados
+# Licencias
 
-Copyright © 2026 Enric. Todos los derechos reservados.
+Este repositorio tiene **dos licencias distintas**: una para el juego y otra
+para la música.
 
-Este repositorio contiene el videojuego **Martín, leyenda del rock** y todos
-sus elementos: el código fuente, el diseño gráfico, los personajes (incluidos
-Sasha y el abuelo Martín), los textos, las partituras de juego (charts) y la
-música y pistas de audio incluidas («la Obra»).
+## 1. El juego (código) — Licencia MIT
 
-## Qué está permitido
+Copyright © 2026 Enric Alicarte
 
-- Ver el código y jugar al juego en la dirección web donde lo publica su autor.
-- Las acciones que las Condiciones de Servicio de GitHub permiten a cualquier
-  usuario sobre un repositorio público (verlo y hacer un *fork* dentro de
-  GitHub). Este permiso no autoriza ningún otro uso de la Obra.
+Se puede copiar, usar, modificar, publicar y distribuir el código del juego
+**Martín, leyenda del rock**, también en versiones propias, siempre que:
 
-## Qué no está permitido sin permiso escrito del autor
+- se mantenga este aviso de copyright y de licencia, y
+- **no se incluya la música** de la sección 2 (hay que quitarla o sustituirla
+  por música propia).
 
-- Copiar, descargar para reutilizar, modificar, adaptar o traducir la Obra o
-  cualquier parte de ella.
-- Distribuir, publicar, alojar o compartir la Obra o copias de ella en
-  cualquier otro sitio, plataforma o tienda.
-- Extraer, reutilizar, remezclar o volver a publicar la música, las pistas de
-  audio o los charts, por separado o dentro de otra obra.
-- Usar los personajes, el nombre «Martín, leyenda del rock» o el diseño en
-  otros proyectos.
-- Usar la Obra, o cualquier parte de ella, con fines comerciales.
-- Usar la Obra para entrenar o ajustar sistemas de inteligencia artificial.
+> Permission is hereby granted, free of charge, to any person obtaining a copy
+> of this software and associated documentation files (the "Software"), to
+> deal in the Software without restriction, including without limitation the
+> rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+> sell copies of the Software, and to permit persons to whom the Software is
+> furnished to do so, subject to the following conditions:
+>
+> The above copyright notice and this permission notice shall be included in
+> all copies or substantial portions of the Software.
+>
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+> IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+> FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+> AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+> LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+> FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+> IN THE SOFTWARE.
 
-Que el código sea visible no significa que se pueda reutilizar. No se concede
-ninguna licencia, explícita ni implícita, salvo lo indicado en «Qué está
-permitido».
+La licencia MIT se aplica solo al código. **No se aplica a la música.**
+
+## 2. La música — Todos los derechos reservados
+
+© 2026 Enric Alicarte. Todos los derechos reservados.
+
+Todas las canciones del juego son obra de **Enric Alicarte**, creadas con
+Suno. Esto incluye:
+
+- los archivos de la carpeta `audio/` y cualquier audio incluido dentro de
+  `index.html`;
+- las pistas separadas (stems) de cada canción;
+- las notas del juego (charts) de cada canción, que son transcripciones de
+  sus melodías.
+
+No está permitido, sin permiso escrito de Enric Alicarte:
+
+- copiar, descargar para reutilizar, distribuir o publicar esta música en
+  cualquier otro sitio;
+- usarla en otros juegos, vídeos, redes sociales u otros proyectos,
+  incluidas copias o versiones de este juego;
+- remezclarla, modificarla o extraer partes de ella;
+- usarla con fines comerciales;
+- usarla para entrenar o ajustar sistemas de inteligencia artificial.
+
+La música solo se puede escuchar jugando a este juego en la dirección donde
+lo publica su autor.
 
 ## Permisos
 
-Para pedir permiso para cualquier uso: enricalicarte@gmail.com
+Para cualquier uso de la música: enricalicarte@gmail.com
 
 ---
 
-## License — All rights reserved (English summary)
+## English summary
 
-Copyright © 2026 Enric. All rights reserved.
-
-The source code, artwork, characters, texts, game charts and all music and
-audio tracks of "Martín, leyenda del rock" in this repository are proprietary.
-You may view this repository and play the game where the author publishes it,
-and you have only the rights GitHub's Terms of Service grant over public
-repositories. No other licence is granted. Copying, modifying,
-redistributing, reusing the music or audio, commercial use and use for AI
-training are prohibited without the author's prior written permission.
-Contact: enricalicarte@gmail.com
+- **Code:** MIT License, © 2026 Enric Alicarte. You may copy, modify and
+  redistribute it, provided you keep this notice and **remove or replace the
+  music**.
+- **Music:** © 2026 Enric Alicarte, created with Suno. **All rights
+  reserved.** The audio files, stems and song charts may not be copied,
+  reused, redistributed, remixed, used commercially or used for AI training
+  without written permission. Contact: enricalicarte@gmail.com
